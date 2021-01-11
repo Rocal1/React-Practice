@@ -1,4 +1,3 @@
-import { Component } from "react";
 
 const Resultado = ({total, plazo, cantidad}) => (
     <div className="u-full-width resultado">
